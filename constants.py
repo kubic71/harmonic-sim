@@ -1,0 +1,15 @@
+FPS = 60
+
+WINDOW_WIDTH = 1024
+WINDOW_HEIGHT = 768
+
+
+
+# Colors
+RED = (255, 0, 0)
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GREY = (127, 127, 127)
+YELLOW = (255, 255, 0)
+GREEN = (0, 255, 0)
+BLUE = (50, 50, 255)
